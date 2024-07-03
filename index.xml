@@ -22,5 +22,12 @@
       <guid>https://mgxal.github.io/posts/secndpost/</guid>
       <description>Advertisement :)&#xA;h1 Heading 8-) 🔗h2 Heading 🔗h3 Heading 🔗h4 Heading 🔗h5 Heading 🔗h6 Heading 🔗Horizontal Rules 🔗::: warning here be dragons ::: +++</description>
     </item>
+    <item>
+      <title>Drivers in Windows</title>
+      <link>https://mgxal.github.io/drivers-in-windows/</link>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://mgxal.github.io/drivers-in-windows/</guid>
+      <description>&lt;p&gt;In the vast ecosystem of Windows, managing device drivers can be a complex task, especially when dealing with third-party drivers. Tools like &lt;strong&gt;Driver Store Explorer&lt;/strong&gt; (also known as &lt;strong&gt;RAPR&lt;/strong&gt;), &lt;a href=&#34;https://github.com/lostindark/DriverStoreExplorer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hosted on GitHub&lt;/a&gt;, offer a streamlined approach to handling drivers in the Windows driver store.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
