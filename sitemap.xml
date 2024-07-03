@@ -2,34 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mgxal.github.io/posts/2024/mypost/</loc>
-    <lastmod>2024-07-03T15:07:34+02:00</lastmod>
-  </url><url>
-    <loc>https://mgxal.github.io/posts/2024/secndpost/</loc>
-    <lastmod>2024-07-03T15:07:34+02:00</lastmod>
-  </url><url>
-    <loc>https://mgxal.github.io/posts/</loc>
-    <lastmod>2024-07-03T15:07:34+02:00</lastmod>
-  </url><url>
-    <loc>https://mgxal.github.io/</loc>
-    <lastmod>2024-07-03T15:07:34+02:00</lastmod>
+    <loc>https://mgxal.github.io/categories/bjj/</loc>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mgxal.github.io/categories/</loc>
-    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mgxal.github.io/categories/dev/</loc>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mgxal.github.io/tags/drivers/</loc>
-    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mgxal.github.io/drivers-in-windows/</loc>
-    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+    <loc>https://mgxal.github.io/first-diary/</loc>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mgxal.github.io/categories/networking/</loc>
-    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+    <loc>https://mgxal.github.io/posts/</loc>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mgxal.github.io/categories/qa/</loc>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mgxal.github.io/</loc>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mgxal.github.io/tags/</loc>
-    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://mgxal.github.io/categories/windows/</loc>
-    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-03T00:00:00+00:00</lastmod>
   </url>
 </urlset>
